@@ -120,3 +120,6 @@ Next, you can use AWS Serverless Application Repository to deploy ready to use A
 
 
 # Ref
+https://www.youtube.com/watch?v=I93i7KGggcg
+
+sam deploy --region us-east-2 --s3-bucket lambda-cd-demo-bucket
